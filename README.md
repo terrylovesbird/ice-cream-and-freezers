@@ -68,4 +68,4 @@ Read [Avdi Grimm's post](http://devblog.avdi.org/2011/07/05/demeter-its-not-just
 
 ###Release 3 : Get Creative!
 
-Put yourself in the baker's shoes, and imagine what other features you might like to have.  Then pick the most useful and feasible one and build it out. 
+Put yourself in the ice cream maker's shoes, and imagine what other features you might like to have.  Then pick the most useful and feasible one and build it out. 
