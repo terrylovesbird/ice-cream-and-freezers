@@ -1,3 +1,4 @@
 require_relative 'ice_cream_and_freezers'
 
-# Write your tests here.  We'd write some for you, but who knows what classes you'll use!
+# Go ahead and write some tests here for your code. We know that you'll at least need the IceCream and Freezer class.
+# Is it a good idea to just dump all the tests in the same spec file?
