@@ -1,10 +1,8 @@
-# Answer These Questions:
+class IceCream
+end
 
-# - What are essential classes?
-# - What attributes will each class have?
-# - What interface will each class provide?
-# - How will the classes interact with each other?
-# - Which classes will inherit from others, if any?
+class Freezer
+end
 
-
-# Your code here
+# Will you need other classes? What attributes will those classes have?
+# How will classes talk to each other?
