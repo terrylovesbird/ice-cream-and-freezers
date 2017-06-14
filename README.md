@@ -1,12 +1,12 @@
 # Ice Cream And Freezers 
  
-##Learning Competencies 
+## Learning Competencies 
 
 * Create single responsibility classes
 * Implement clean and flexible interfaces between objects
 * Use composition to give structure to more complex objects
 
-##Summary 
+## Summary 
 
  **I <3 Ice Cream** is a creamery that makes delicious ice cream.  They are growing rapidly, and they need some software to help them manage their kitchen.
   
@@ -16,9 +16,9 @@ Your job is to build a program that will help them manage their ice cream freezi
 - As a ice cream maker, I want to place batches of ice cream in an freezer.
 - As a ice cream maker, I want to know when a batch of ice cream is ready to be removed from the freezer.
 
-##Releases
+## Releases
 
-###Release 0 :Design the structure
+### Release 0 :Design the structure
 
 Think about this problem critically before you even begin to write code and describe how you would design the program in plain English.
         
@@ -35,7 +35,7 @@ Implement a minimum viable product.
 
 It does not need to track multiple types of ice cream, but you should be able to move ice cream into and out of an freezer.  This would be a great time to write some tests in the RSpec file that show how you'd _like_ your classes to work, and then get them all to pass!
 
-###Release 1 : Additional Features
+### Release 1 : Additional Features
 
 Add more features to your program.
       
@@ -44,7 +44,7 @@ Add more features to your program.
 
 Don't forget to write more tests for this release.
 
-###Release 2 : Refactor
+### Release 2 : Refactor
 
 Take a step back and look at the code you've produced.  Run through a checklist to see if you are following the principles of object-oriented design:
         
@@ -66,6 +66,6 @@ The Law of Demeter can be summarized as follows:
       
 Read [Avdi Grimm's post](http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/) for a more thorough explanation.
 
-###Release 3 : Get Creative!
+### Release 3 : Get Creative!
 
 Put yourself in the ice cream maker's shoes, and imagine what other features you might like to have.  Then pick the most useful and feasible one and build it out. 
