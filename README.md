@@ -33,7 +33,7 @@ At the very least, consider these questions in your answer:
 
 Implement a minimum viable product.
 
-It does not need to track multiple types of ice cream, but you should be able to move ice cream into and out of an freezer.  This would be a great time to write some tests in the RSpec file that show how you'd _like_ your classes to work, and then get them all to pass!
+It does not need to track multiple types of ice cream, but you should be able to move ice cream into and out of a freezer.  This would be a great time to write some tests in the spec file that show how you'd _like_ your classes to work, and then get them all to pass!
 
 ### Release 1 : Additional Features
 
